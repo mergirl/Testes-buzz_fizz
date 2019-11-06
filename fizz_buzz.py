@@ -1,0 +1,2 @@
+def solucao(n):
+    return
